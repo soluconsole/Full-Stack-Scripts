@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shayne</h1>
 <h3 align="center">A WordPress Developer based in South Africa</h3>
+<p>I'm currently learning data science, while upskilling myself to a full-stack of development languages. I am also able to work on various Cloud-based applications.</p>
+
 
 - 🔭 This is my [practice folder for solutions console](http://solutionsconsole.co.za)
 
