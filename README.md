@@ -5,7 +5,7 @@
 
 - 🔭 This is my [practice folder for solutions console](http://solutionsconsole.co.za)
 
-- 👨‍💻 My portfolio of my projects can be viewed at [http://wordpressdeveloper.joburg/portfolio](http://wordpressdeveloper.joburg/portfolio)
+- 👨‍💻 My portfolio of my projects can be viewed at [http://mydss.co.za](http://mydss.co.za)
 
 - 📫 How to reach me **shayne@solutionsconsole.co.za**
 
